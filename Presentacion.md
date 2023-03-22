@@ -1,4 +1,4 @@
-# *Gonzalo Crespín (21)*
+<span style="color:blue;"># *Gonzalo Crespín (21)*</span>
 
 ## Estudiante de Ing. en Sistemas
 

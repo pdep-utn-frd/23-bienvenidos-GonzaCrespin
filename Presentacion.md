@@ -1,6 +1,6 @@
  # *<span style="color:blue;">Gonzalo Crespín (21)</span>* 
 
-## Estudiante de Ing. en Sistemas
+## Estudiante de [Ing. en Sistemas](https://www.frd.utn.edu.ar/sistemas/)
 
 **Informacion Personal**
 
@@ -15,4 +15,3 @@
 - Jugar a la compu.
 - Jugar al futbol.
 
-<span style="color:blue;"> Prueba </span>
